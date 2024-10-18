@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GitHub\\ECommerceApp-VerticalSlice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFE9239-F9EE-4816-8E3C-94646232A95B}|Solution Items{6CFE9239-F9EE-4816-8E3C-94646232A95B}|I:\\GitHub\\ECommerceApp-VerticalSlice\\ReadMe.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6CFE9239-F9EE-4816-8E3C-94646232A95B}|Solution Items{6CFE9239-F9EE-4816-8E3C-94646232A95B}|solutionrelative:ReadMe.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\common\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\common\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\common\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\common\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\common\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\common\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\common\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\common\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\common\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\common\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\common\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\common\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\addproduct\\addproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\addproduct\\addproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\placeorder\\placeorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\placeorder\\placeorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\addproduct\\addproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\addproduct\\addproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\placeorder\\placeordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\placeorder\\placeordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\getorder\\getorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\getorder\\getorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\ecommerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\ecommerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\orders\\getorder\\getorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\orders\\getorder\\getorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|i:\\github\\ecommerceapp-verticalslice\\ecommerceapp\\products\\getproduct\\getproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB1D57-B404-4CED-BFD2-10B66CB53A06}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\products\\getproduct\\getproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\Common\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\Common\\IProductRepository.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\Common\\IProductRepository.cs",
+              "RelativeToolTip": "ECommerceApp\\Products\\Common\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:52:10.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\Common\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\Common\\Product.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\Common\\Product.cs*",
+              "RelativeToolTip": "ECommerceApp\\Products\\Common\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:12:56.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProductHandler.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\AddProduct\\AddProductHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\AddProduct\\AddProductHandler.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\AddProduct\\AddProductHandler.cs*",
+              "RelativeToolTip": "ECommerceApp\\Products\\AddProduct\\AddProductHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:19:23.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaceOrderHandler.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderHandler.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderHandler.cs*",
+              "RelativeToolTip": "ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:29:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\Common\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\Common\\ProductRepository.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\Common\\ProductRepository.cs*",
+              "RelativeToolTip": "ECommerceApp\\Products\\Common\\ProductRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:15:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\Common\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\Common\\IOrderRepository.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\Common\\IOrderRepository.cs*",
+              "RelativeToolTip": "ECommerceApp\\Orders\\Common\\IOrderRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:25:06.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\Common\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\Common\\OrderRepository.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\Common\\OrderRepository.cs*",
+              "RelativeToolTip": "ECommerceApp\\Orders\\Common\\OrderRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:25:13.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\Common\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\Common\\Order.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\Common\\Order.cs*",
+              "RelativeToolTip": "ECommerceApp\\Orders\\Common\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:40:14.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Program.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Program.cs*",
+              "RelativeToolTip": "ECommerceApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:37:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ReadMe.md",
+              "RelativeDocumentMoniker": "ReadMe.md",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ReadMe.md*",
+              "RelativeToolTip": "ReadMe.md*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-14T11:37:56.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\AddProduct\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\AddProduct\\AddProductCommand.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\AddProduct\\AddProductCommand.cs*",
+              "RelativeToolTip": "ECommerceApp\\Products\\AddProduct\\AddProductCommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:35:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlaceOrderCommand.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderCommand.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderCommand.cs",
+              "RelativeToolTip": "ECommerceApp\\Orders\\PlaceOrder\\PlaceOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:48:31.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceApp\\appsettings.json",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\appsettings.json*",
+              "RelativeToolTip": "ECommerceApp\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T17:41:51.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductResponse.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\AddProduct\\AddProductResponse.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\AddProduct\\AddProductResponse.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\AddProduct\\AddProductResponse.cs",
+              "RelativeToolTip": "ECommerceApp\\Products\\AddProduct\\AddProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:20:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetOrderHandler.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\GetOrder\\GetOrderHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\GetOrder\\GetOrderHandler.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\GetOrder\\GetOrderHandler.cs*",
+              "RelativeToolTip": "ECommerceApp\\Orders\\GetOrder\\GetOrderHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:33:03.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ECommerceApp.csproj",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\ECommerceApp.csproj",
+              "RelativeDocumentMoniker": "ECommerceApp\\ECommerceApp.csproj",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\ECommerceApp.csproj*",
+              "RelativeToolTip": "ECommerceApp\\ECommerceApp.csproj*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T16:11:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Controllers\\OrdersController.cs*",
+              "RelativeToolTip": "ECommerceApp\\Controllers\\OrdersController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:27:57.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetOrderResponse.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\GetOrder\\GetOrderResponse.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Orders\\GetOrder\\GetOrderResponse.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Orders\\GetOrder\\GetOrderResponse.cs*",
+              "RelativeToolTip": "ECommerceApp\\Orders\\GetOrder\\GetOrderResponse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:33:09.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "ECommerceApp\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:22:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Infrastructure\\AppDbContext.cs*",
+              "RelativeToolTip": "ECommerceApp\\Infrastructure\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:16:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetProductQuery.cs",
+              "DocumentMoniker": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\GetProduct\\GetProductQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Products\\GetProduct\\GetProductQuery.cs",
+              "ToolTip": "I:\\GitHub\\ECommerceApp-VerticalSlice\\ECommerceApp\\Products\\GetProduct\\GetProductQuery.cs*",
+              "RelativeToolTip": "ECommerceApp\\Products\\GetProduct\\GetProductQuery.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:23:26.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
